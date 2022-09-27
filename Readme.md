@@ -25,8 +25,8 @@
 - It took me around 40 minutes to built this website from scratch.
 
 ## Links
-- [live demo]()
-- [source]()
+- [live demo](https://clrc-clr-bg.netlify.app/)
+- [source](https://github.com/RAM844/Random-colour-picker)
 
 
 ## Contact me
